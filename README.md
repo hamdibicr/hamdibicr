@@ -17,13 +17,13 @@
 <p align="left">
    <a href="https://discord.com/users/982223125724954684" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/31zsb5i5hf62ldsf7vd46ik47u4i" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://github.com/sizzyshu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://github.com/hamdibicr" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <h3 align="left">GitHub İstatistiklerim</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizzyshu&theme=dark&count_private=true&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=sizzyshu&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdibicr&theme=dark&count_private=true&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hamdibicr&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
 
 <h3 align="left">Discord Hesabım</h3>

@@ -27,4 +27,4 @@
 </p>
 
 <h3 align="left">Discord Hesabım</h3>
-   <img src="https://lanyard.cnrad.dev/api/982223125724954684" />
+   <img src="" />

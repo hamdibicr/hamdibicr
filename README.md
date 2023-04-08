@@ -1,6 +1,6 @@
 <h1 align="center">Selam 👋</h1>
 
-<p align="left">Ben sizzyshu, 3 yıla yakındır yazılım ile uğraşıyorum. Bu 3 yıl içerisinde birçok yazılım dili öğrendim ama şuanda içlerinden sadece JavaScript ve Python kullanmaktayım.</a>
+<p align="left">Ben hamdi, 3 yıla yakındır yazılım ile uğraşıyorum. Bu 3 yıl içerisinde birçok yazılım dili öğrendim ama şuanda içlerinden sadece JavaScript ve Python kullanmaktayım.</a>
 
 <h3>Çalışma alanlarım</h3>
 <p style="float:right">

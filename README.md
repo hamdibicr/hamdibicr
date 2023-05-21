@@ -1,5 +1,5 @@
 <h3>💻 Selam!</h3> 
-- Ben hamdi, 3 yıla yakındır yazılım ile ilgilenmekteyim. Bu 3 yıl içierisinde birçok topluluğu yönetip yönetime yardım edecek botlar geliştirdim. Şuanda birçok yazılım dilini bilmekteyim.
+- Hen Hamdi, 3 yıla yakındır yazılım ile ilgilenmekteyim. Bu 3 yılda birçok topluluğu yönetip yönetime yardım edecek botlar geliştirdim. Şuanda daha çok web tasarım ve programlama üzerinde çalışmaktayım.
 
 <div align="center">
 <h3>İletişim</h3>

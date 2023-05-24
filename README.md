@@ -5,6 +5,7 @@
 <h3>İletişim</h3>
 <a href="https://discord.com/users/982223125724954684" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/@hamdibicr" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/hamdibicr" target"blank_"><img src="https://img.shields.io/badge/instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/hamdibicr" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 

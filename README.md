@@ -1,5 +1,5 @@
 <h3>💻 Selam!</h3> 
-- Hen Hamdi, 3 yıla yakındır yazılım ile ilgilenmekteyim. Bu 3 yılda birçok topluluğu yönetip yönetime yardım edecek botlar geliştirdim. Şuanda daha çok web tasarım ve programlama üzerinde çalışmaktayım.
+- ben Hamdi, Kayseri'de öğrenimini sürdüren bir öğrenciyim. Yaklaşık 2018-2019 yılından beri internet üzerinden yazlımla ilgilenmekteyim ve aynı zamanda bu süre içerisinde; Discord platformunda büyük kitleler yönetip, bu kitleleri yönetmeye yardımcı olan botları geliştirmekle ilgilendim. Tasarımlarım şuana dek Discord'da yüzbinlerce kişiye hizmet verdi ve aralarında olmaktan gurur duyduğum; DcTurkey, Codesty, Dcshop adlarıyla milyonlarca kişiye ve 5000'den fazla sunucuya erişen projelerde bulunuyorum.
 
 <div align="center">
 <h3>İletişim</h3>
